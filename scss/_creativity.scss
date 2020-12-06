@@ -1,0 +1,100 @@
+.keys{
+  height: 100%;
+  
+  &-title{
+    color: $red;
+    letter-spacing: .5rem;
+    font-size: 4rem;
+    font-family: $font-family-sans-serif;
+    padding-left: 4rem;
+   
+    @media only screen and (max-width: 600px) {
+      padding-left: 0;
+      font-size: 3rem;
+      text-align: center;
+      }
+
+    &-colorful{
+      color: $red;
+      letter-spacing: .5rem;
+      font-size: 3rem;
+      font-family: $font-family-sans-serif;
+      margin-left: 5rem;
+      @media only screen and (max-width: 600px) {
+        margin-left: 0;
+        font-size: 2rem;
+        align-self: center !important;    
+        }
+    }
+    &-revolutionary{
+      color: $blue;
+      letter-spacing: .5rem;
+      font-size:3rem;
+      font-family: $font-family-sans-serif;
+      margin-right: 5rem;
+      @media only screen and (max-width: 600px) {
+        margin-right: 0;
+        font-size: 2rem;
+        letter-spacing: .3rem;
+        align-self: center !important;
+        }
+    }
+    &-creativity{
+      color: $green;
+      letter-spacing: .5rem;
+      font-size: 3rem;
+      font-family: $font-family-sans-serif;
+      margin-left: 5rem;
+      @media only screen and (max-width: 600px) {
+        margin-left: 0;
+        font-size: 2rem;
+        align-self: center !important;
+        
+        }
+    }
+
+  }
+  &-description{
+    margin: 3rem;
+    font-size: 1.5rem;
+    line-height: 3rem;
+   font-family: $font-family-monospace;
+   letter-spacing: .1rem;
+   word-spacing: .2rem;
+ 
+   @media only screen and (max-width: 600px) {
+    margin: 1rem;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 2rem;
+
+    }
+    &-right{
+      @media only screen and (max-width: 600px) {
+        margin: 1rem;
+        text-align: center;
+    
+        }
+    }
+  }
+  &-row{
+   margin-top: 6rem;
+  }
+
+  &-img{
+    width: 40rem;
+    
+    @media only screen and (max-width: 600px) {
+      width: 20rem;    
+      }
+  }
+}
+
+
+
+.reverse{
+  @media only screen and (max-width: 1200px) {   
+    display: flex;
+    flex-direction: column-reverse;
+ } 
+}
