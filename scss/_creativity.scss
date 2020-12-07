@@ -82,14 +82,12 @@
   }
 
   &-img{
-    width: 40rem;
+    width: 30rem;
     
     @media only screen and (max-width: 600px) {
       width: 20rem;    
       }
-      @media (min-width: 601px ) and (max-width: 1200px) {
-        width: 30rem;    
-        }
+    
   }
 }
 

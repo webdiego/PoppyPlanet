@@ -2,14 +2,14 @@
   height: 100%;
 
   &-img{
-    padding:15rem !important;
+    padding:15rem;
     @media only screen and (max-width: 900px) {
-     padding: 3rem !important;  
-      }
+     padding: 2rem ;  
   }
 }
+}
  .carousel-indicators{
-   transform: translateY(2rem);
+   transform: translateY(4rem);
  }
  .carousel-indicators li {
   display: inline-block;
@@ -19,7 +19,8 @@
   text-indent: 0;
   cursor: pointer;
   border: none;
-  border-radius: 50%;
+  border-radius: 20px;
+ 
   background-color: $green;
    
 }
@@ -28,4 +29,40 @@
   height: 1rem;
   margin: 10px;
   background-color: #dddddd;
+}
+
+
+.menu-dinner{
+
+  margin-top: 8rem;
+  margin-left: 15rem;
+  @media only screen and (max-width: 900px) {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-left: 0rem;
+
+  
+     }
+  &-title{
+    color: $green ;
+    margin-right: 3rem;
+    letter-spacing: .5rem;
+    font-size: 2rem;
+    font-family: $font-family-sans-serif;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    @media only screen and (max-width: 900px) {
+      font-size: 1.1rem; 
+      margin-right:1.2rem;
+
+       }
+  }
+}
+
+.waves{
+  background-image: url(../img/waves.svg);
+  height: 3rem;
+  margin-top: 10rem;
+  margin-bottom: 4rem;
 }

@@ -1,0 +1,72 @@
+.contact{
+   height: 100%;
+   margin-top: 4rem;
+   margin: 0 auto;
+   margin-left: 10rem;
+   @media only screen and (max-width: 800px) {
+    margin-left: 0rem;
+    
+    }  
+  &-opening{
+    @media only screen and (max-width: 800px) {
+      margin-left: 3rem;
+      }  
+  }
+
+  &-title{
+   color: $red;
+    letter-spacing: .5rem;
+    font-size: 4rem;
+    font-family: $font-family-sans-serif;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+   
+    @media only screen and (max-width: 800px) {
+      font-size: 3rem;
+      text-align: center;
+      }  
+  }
+
+  &-sub{
+   font-family:  $font-family-monospace;
+   color: $green;
+   font-size: 3rem;
+   letter-spacing: .7rem;
+   margin-bottom: 2rem;
+   @media only screen and (max-width: 800px) {
+    font-size: 2rem;
+    
+    } 
+  }
+
+  &-hours{
+    font-family:  $font-family-monospace;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+    @media only screen and (max-width: 800px) {
+      font-size: 1.4rem;
+      
+      } 
+  }
+
+  &-icon{
+    width: 4rem;
+    margin-right: 4rem;
+    @media only screen and (max-width: 800px) {
+     width: 2rem;
+     margin-right: 1rem;
+      
+      } 
+  }
+}
+
+
+//=========   MAP
+#map{
+  width: 100%;
+  margin-top: 10rem;
+  height: 30rem;
+  @media screen and (max-width:1100px) {
+    margin-top: 0;
+   }
+}
