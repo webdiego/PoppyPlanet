@@ -66,15 +66,21 @@
     letter-spacing: .5rem;
     font-family: $font-family-sans-serif;
     transition: all 0.5s;
-   &-img{
+    text-align: center;
 
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @media only screen and (max-width: 600px) {
+        font-size: .8rem;
+        padding: .4rem 1rem;
+      }
+   &-img{ 
      width: 2rem;
    }
 
- 
   }
-
   &-btn:hover {
     transform: translateY(-1rem);
   }

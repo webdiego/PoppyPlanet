@@ -20,7 +20,7 @@
       font-size: 3rem;
       font-family: $font-family-sans-serif;
       margin-left: 5rem;
-      @media only screen and (max-width: 600px) {
+      @media only screen and (max-width: 900px) {
         margin-left: 0;
         font-size: 2rem;
         align-self: center !important;    
@@ -32,7 +32,7 @@
       font-size:3rem;
       font-family: $font-family-sans-serif;
       margin-right: 5rem;
-      @media only screen and (max-width: 600px) {
+      @media only screen and (max-width: 900px) {
         margin-right: 0;
         font-size: 2rem;
         letter-spacing: .3rem;
@@ -45,7 +45,7 @@
       font-size: 3rem;
       font-family: $font-family-sans-serif;
       margin-left: 5rem;
-      @media only screen and (max-width: 600px) {
+      @media only screen and (max-width: 900px) {
         margin-left: 0;
         font-size: 2rem;
         align-self: center !important;
@@ -87,6 +87,9 @@
     @media only screen and (max-width: 600px) {
       width: 20rem;    
       }
+      @media (min-width: 601px ) and (max-width: 1200px) {
+        width: 30rem;    
+        }
   }
 }
 
