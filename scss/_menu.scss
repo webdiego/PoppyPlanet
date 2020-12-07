@@ -81,6 +81,9 @@
       width: 1.5rem;
     }
   }
+  &-btn:hover {
+    background-color: $green;
+  }
 }
 
 .waves{
@@ -90,6 +93,11 @@
   
 }
 
+.greek{
+  background-image: url(../img/greek.svg);
+  height: 3rem;
+  margin-top: 4rem;
+}
 
 .shake-bottom{-webkit-animation:shake-bottom 1s cubic-bezier(.455,.03,.515,.955) 1s infinite both;animation:shake-bottom 1s cubic-bezier(.455,.03,.515,.955) 1s infinite both}
 

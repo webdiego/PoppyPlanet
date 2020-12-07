@@ -54,9 +54,25 @@ body {
   color: #F71939 !important;
 }
 
+@media only screen and (max-width: 680px) {
+  .social {
+    padding: .5rem;
+  }
+}
+
 .social:hover {
   color: #109272 !important;
   transition: 0.6s;
+}
+
+.nav-item-social {
+  display: flex;
+}
+
+@media only screen and (max-width: 680px) {
+  .nav-item-social {
+    display: flex;
+  }
 }
 
 a {
@@ -7833,7 +7849,6 @@ template {
 
 .header {
   height: 100vh;
-  position: relative;
   background-image: url("../img/bg-3.svg");
   background-position: center;
 }
@@ -7924,11 +7939,7 @@ template {
 }
 
 .title-btn:hover {
-  transform: translateY(-1rem);
-}
-
-.title-btn:active {
-  transform: translateY(0rem);
+  background-color: #109272;
 }
 
 .bounce-in-top {
@@ -8224,8 +8235,18 @@ template {
   width: 1.5rem;
 }
 
+.menu-dinner-btn:hover {
+  background-color: #109272;
+}
+
 .waves {
   background-image: url(../img/waves.svg);
+  height: 3rem;
+  margin-top: 4rem;
+}
+
+.greek {
+  background-image: url(../img/greek.svg);
   height: 3rem;
   margin-top: 4rem;
 }
