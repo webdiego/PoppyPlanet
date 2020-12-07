@@ -8184,7 +8184,7 @@ template {
 .menu-dinner-title {
   color: #109272;
   margin-right: 3rem;
-  letter-spacing: .5rem;
+  letter-spacing: .3rem;
   font-size: 2rem;
   font-family: "Brandon-Black";
   text-decoration: underline;
@@ -8227,8 +8227,7 @@ template {
 .waves {
   background-image: url(../img/waves.svg);
   height: 3rem;
-  margin-top: 10rem;
-  margin-bottom: 4rem;
+  margin-top: 4rem;
 }
 
 .contact {
@@ -8236,6 +8235,7 @@ template {
   margin-top: 4rem;
   margin: 0 auto;
   margin-left: 10rem;
+  margin-bottom: 5rem;
 }
 
 @media only screen and (max-width: 800px) {
