@@ -88,9 +88,9 @@ a {
 }
 
 .footer-rights {
-  font-size: .8rem;
+  font-size: .6rem;
   font-family: "NeulisAlt-Medium";
-  letter-spacing: .5rem;
+  letter-spacing: .4rem;
   font-weight: lighter;
   color: white;
 }
@@ -8198,6 +8198,32 @@ template {
   }
 }
 
+.menu-dinner-btn {
+  color: white;
+  background-color: #F71939;
+  border: none;
+  padding: .5rem 1rem;
+  border-radius: 40px;
+  letter-spacing: .5rem;
+  font-family: "Brandon-Black";
+  transition: all 0.5s;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .menu-dinner-btn {
+    font-size: .7rem;
+    padding: .4rem 1rem;
+  }
+}
+
+.menu-dinner-btn-img {
+  width: 1.5rem;
+}
+
 .waves {
   background-image: url(../img/waves.svg);
   height: 3rem;
@@ -8250,7 +8276,7 @@ template {
 
 @media only screen and (max-width: 800px) {
   .contact-sub {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 }
 
@@ -8262,7 +8288,7 @@ template {
 
 @media only screen and (max-width: 800px) {
   .contact-hours {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 }
 
