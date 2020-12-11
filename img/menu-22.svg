@@ -1,224 +1,147 @@
-<svg id="menu-22" xmlns="http://www.w3.org/2000/svg" width="974" height="1583" viewBox="0 0 974 1583">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-        stroke: #109272;
-        stroke-width: 3px;
-        stroke-dasharray: 3 9;
-      }
-
-      .cls-2 {
-        fill: #109272;
-        font-size: 27px;
-      }
-
-      .cls-2, .cls-4, .cls-6, .cls-7 {
-        font-family: Neulis-Medium, Neulis;
-      }
-
-      .cls-10, .cls-2, .cls-4, .cls-6, .cls-7, .cls-8 {
-        font-weight: 500;
-      }
-
-      .cls-2, .cls-4 {
-        letter-spacing: 0.006em;
-      }
-
-      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
-        fill: #0d7b60;
-      }
-
-      .cls-3, .cls-6 {
-        font-size: 20px;
-      }
-
-      .cls-3, .cls-5 {
-        font-family: NeulisAlt-Regular, Neulis Alt;
-      }
-
-      .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
-        letter-spacing: 0.035em;
-      }
-
-      .cls-4 {
-        font-size: 28px;
-      }
-
-      .cls-5 {
-        font-size: 17px;
-      }
-
-      .cls-7, .cls-8 {
-        font-size: 18px;
-      }
-
-      .cls-10, .cls-8 {
-        font-family: Neulis-MediumItalic, Neulis;
-      }
-
-      .cls-8, .cls-9 {
-        font-style: italic;
-      }
-
-      .cls-9 {
-        font-size: 15px;
-        font-family: NeulisAlt-LightItalic, Neulis Alt;
-        font-weight: 300;
-      }
-
-      .cls-11 {
-        stroke: none;
-      }
-
-      .cls-12 {
-        fill: none;
-      }
-    </style>
-  </defs>
-  <g id="Rectangle_1" data-name="Rectangle 1" class="cls-1" transform="translate(4 1452)">
-    <rect class="cls-11" width="961" height="131"/>
-    <rect class="cls-12" x="1.5" y="1.5" width="958" height="128"/>
+<svg id="menu-22" xmlns="http://www.w3.org/2000/svg" width="1014" height="1583" viewBox="0 0 1014 1583">
+  <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(0 1452)" fill="#fff" stroke="#109272" stroke-width="3" stroke-dasharray="3 9">
+    <rect width="1014" height="131" stroke="none"/>
+    <rect x="1.5" y="1.5" width="1011" height="128" fill="none"/>
   </g>
-  <g id="Component_20_2" data-name="Component 20 – 2">
+  <g id="Component_20_2" data-name="Component 20 – 2" transform="translate(35)">
     <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(0 1)">
-      <text id="MISS_PATATA_V_" data-name="MISS PATATA * (V)" class="cls-2"><tspan x="0" y="26">MISS PATATA * (V)</tspan></text>
+      <text id="MISS_PATATA_V_" data-name="MISS PATATA * (V)" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">MISS PATATA * (V)</tspan></text>
       <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(0 42)">
         <text id="Sweet_Potato_Guacamole_Shimeji_Mushrooms_Heirloom_Tomato_Poached_Egg_Soy_Pears_Reduction_Micro_Herbs_" data-name="Sweet Potato, Guacamole, Shimeji Mushrooms, Heirloom Tomato, Poached Egg,
-Soy Pears Reduction, Micro Herbs " class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Sweet Potato, Guacamole, Shimeji Mushrooms, Heirloom Tomato, Poached Egg,</tspan><tspan x="0" y="26">Soy Pears Reduction, Micro Herbs </tspan></text>
+Soy Pears Reduction, Micro Herbs " transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Sweet Potato, Guacamole, Shimeji Mushrooms, Heirloom Tomato, Poached Egg,</tspan><tspan x="0" y="26">Soy Pears Reduction, Micro Herbs </tspan></text>
       </g>
     </g>
-    <text id="_17" data-name="$17" class="cls-4" transform="translate(920 27)"><tspan x="0" y="0">$17</tspan></text>
+    <text id="_17" data-name="$17" transform="translate(920 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$17</tspan></text>
   </g>
-  <g id="Component_19_2" data-name="Component 19 – 2" transform="translate(4 140)">
+  <g id="Component_19_2" data-name="Component 19 – 2" transform="translate(39 140)">
     <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(0 1)">
-      <text id="POPPY_PASTA" data-name="POPPY PASTA" class="cls-2"><tspan x="0" y="26">POPPY PASTA</tspan></text>
+      <text id="POPPY_PASTA" data-name="POPPY PASTA" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">POPPY PASTA</tspan></text>
       <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(0 42)">
         <text id="Ravioli_filled_Ricotta_Yolk_Egg_topped_with_Butter_Sage_Poppy_Seed_finished_with_Flower" data-name="Ravioli filled Ricotta &amp; Yolk Egg topped with Butter Sage, Poppy Seed,
- finished with Flower" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Ravioli filled Ricotta &amp; Yolk Egg topped with Butter Sage, Poppy Seed,</tspan><tspan x="0" y="26" xml:space="preserve"> finished with Flower</tspan></text>
+ finished with Flower" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Ravioli filled Ricotta &amp; Yolk Egg topped with Butter Sage, Poppy Seed,</tspan><tspan x="0" y="26" xml:space="preserve"> finished with Flower</tspan></text>
       </g>
     </g>
-    <text id="_18" data-name="$18" class="cls-4" transform="translate(921 27)"><tspan x="0" y="0">$18</tspan></text>
+    <text id="_18" data-name="$18" transform="translate(921 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$18</tspan></text>
   </g>
-  <g id="Component_18_2" data-name="Component 18 – 2" transform="translate(1 281.982)">
+  <g id="Component_18_2" data-name="Component 18 – 2" transform="translate(36 281.982)">
     <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(0 2)">
-      <text id="EGGCENTRI_GREEN" data-name="EGGCENTRI GREEN" class="cls-2"><tspan x="0" y="26">EGGCENTRI GREEN</tspan></text>
+      <text id="EGGCENTRI_GREEN" data-name="EGGCENTRI GREEN" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">EGGCENTRI GREEN</tspan></text>
       <g id="Component_1_4" data-name="Component 1 – 4" transform="translate(0 42)">
-        <text id="Kale_Wild_Black_Rice_Zucchini_Mint_Labneh_Seaweed_Egg_Broccoli_Beanchs" data-name="Kale, Wild Black Rice, Zucchini, Mint Labneh, Seaweed, Egg, Broccoli, Beanchs" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Kale, Wild Black Rice, Zucchini, Mint Labneh, Seaweed, Egg, Broccoli, Beanchs</tspan></text>
+        <text id="Kale_Wild_Black_Rice_Zucchini_Mint_Labneh_Seaweed_Egg_Broccoli_Beanchs" data-name="Kale, Wild Black Rice, Zucchini, Mint Labneh, Seaweed, Egg, Broccoli, Beanchs" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Kale, Wild Black Rice, Zucchini, Mint Labneh, Seaweed, Egg, Broccoli, Beanchs</tspan></text>
       </g>
     </g>
-    <text id="_20" data-name="$20" class="cls-4" transform="translate(923 27)"><tspan x="0" y="0">$20</tspan></text>
+    <text id="_20" data-name="$20" transform="translate(923 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$20</tspan></text>
   </g>
-  <g id="Component_17_2" data-name="Component 17 – 2" transform="translate(13 432.571)">
+  <g id="Component_17_2" data-name="Component 17 – 2" transform="translate(48 432.571)">
     <g id="Component_6_1" data-name="Component 6 – 1" transform="translate(0 1)">
-      <text id="VEGAN_BURGER" data-name="VEGAN BURGER" class="cls-2"><tspan x="0" y="26">VEGAN BURGER</tspan></text>
+      <text id="VEGAN_BURGER" data-name="VEGAN BURGER" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">VEGAN BURGER</tspan></text>
       <g id="Component_1_5" data-name="Component 1 – 5" transform="translate(0 42)">
-        <text id="Bun_Beet_Hummus_Falafel_Pickles_Caramelised_Onion_Shiracha_Sauce" data-name="Bun, Beet Hummus, Falafel, Pickles, Caramelised Onion, Shiracha Sauce" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Bun, Beet Hummus, Falafel, Pickles, Caramelised Onion, Shiracha Sauce</tspan></text>
+        <text id="Bun_Beet_Hummus_Falafel_Pickles_Caramelised_Onion_Shiracha_Sauce" data-name="Bun, Beet Hummus, Falafel, Pickles, Caramelised Onion, Shiracha Sauce" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Bun, Beet Hummus, Falafel, Pickles, Caramelised Onion, Shiracha Sauce</tspan></text>
       </g>
     </g>
-    <text id="_17-2" data-name="$17" class="cls-4" transform="translate(917 27)"><tspan x="0" y="0">$17</tspan></text>
+    <text id="_17-2" data-name="$17" transform="translate(917 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$17</tspan></text>
   </g>
-  <g id="Component_16_2" data-name="Component 16 – 2" transform="translate(4 547.785)">
+  <g id="Component_16_2" data-name="Component 16 – 2" transform="translate(39 547.785)">
     <g id="Component_7_1" data-name="Component 7 – 1">
-      <text id="BLAME_ITALY" data-name="BLAME ITALY" class="cls-2"><tspan x="0" y="26">BLAME ITALY</tspan></text>
+      <text id="BLAME_ITALY" data-name="BLAME ITALY" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">BLAME ITALY</tspan></text>
       <g id="Component_1_6" data-name="Component 1 – 6" transform="translate(0 42)">
-        <text id="Beef_Patty_Provolone_Dolce_Speck_Maionese_Salsa_Verde_Spinach" data-name="Beef Patty, Provolone Dolce, Speck, Maionese, Salsa Verde, Spinach" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Beef Patty, Provolone Dolce, Speck, Maionese, Salsa Verde, Spinach</tspan></text>
+        <text id="Beef_Patty_Provolone_Dolce_Speck_Maionese_Salsa_Verde_Spinach" data-name="Beef Patty, Provolone Dolce, Speck, Maionese, Salsa Verde, Spinach" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Beef Patty, Provolone Dolce, Speck, Maionese, Salsa Verde, Spinach</tspan></text>
       </g>
     </g>
-    <text id="_20-2" data-name="$20" class="cls-4" transform="translate(915 27)"><tspan x="0" y="0">$20</tspan></text>
+    <text id="_20-2" data-name="$20" transform="translate(915 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$20</tspan></text>
   </g>
-  <g id="Component_15_2" data-name="Component 15 – 2" transform="translate(5 661.996)">
+  <g id="Component_15_2" data-name="Component 15 – 2" transform="translate(40 661.996)">
     <g id="Component_8_1" data-name="Component 8 – 1" transform="translate(0 1)">
-      <text id="MAD_RUBEN_" data-name="MAD RUBEN *" class="cls-2" transform="translate(2)"><tspan x="0" y="26">MAD RUBEN *</tspan></text>
+      <text id="MAD_RUBEN_" data-name="MAD RUBEN *" transform="translate(2)" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">MAD RUBEN *</tspan></text>
       <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(0 42)">
-        <text id="Corn_Beef_Provolone_Russian_Dressing_Pickle_Cacio_E_Pepe_Chips" data-name="Corn Beef, Provolone, Russian Dressing, Pickle, Cacio E Pepe Chips" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Corn Beef, Provolone, Russian Dressing, Pickle, Cacio E Pepe Chips</tspan></text>
+        <text id="Corn_Beef_Provolone_Russian_Dressing_Pickle_Cacio_E_Pepe_Chips" data-name="Corn Beef, Provolone, Russian Dressing, Pickle, Cacio E Pepe Chips" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Corn Beef, Provolone, Russian Dressing, Pickle, Cacio E Pepe Chips</tspan></text>
       </g>
     </g>
-    <text id="_20-3" data-name="$20" class="cls-4" transform="translate(912 27)"><tspan x="0" y="0">$20</tspan></text>
+    <text id="_20-3" data-name="$20" transform="translate(912 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$20</tspan></text>
   </g>
-  <g id="Component_14_2" data-name="Component 14 – 2" transform="translate(8 777.353)">
+  <g id="Component_14_2" data-name="Component 14 – 2" transform="translate(43 777.353)">
     <g id="Component_9_1" data-name="Component 9 – 1">
-      <text id="CHURROS_MY_FRENCH" data-name="CHURROS MY FRENCH" class="cls-2"><tspan x="0" y="26">CHURROS MY FRENCH</tspan></text>
+      <text id="CHURROS_MY_FRENCH" data-name="CHURROS MY FRENCH" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">CHURROS MY FRENCH</tspan></text>
       <g id="Component_1_9" data-name="Component 1 – 9" transform="translate(0 42)">
         <text id="Churro_French_toast_with_Vanilla_Ice_Cream_Spicy_Chocolate_Fresh_Fruit_Honey_and_Lemon_Balm" data-name="Churro French toast with Vanilla Ice Cream, Spicy Chocolate, Fresh Fruit,
-Honey and Lemon Balm" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Churro French toast with Vanilla Ice Cream, Spicy Chocolate, Fresh Fruit,</tspan><tspan x="0" y="26">Honey and Lemon Balm</tspan></text>
+Honey and Lemon Balm" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Churro French toast with Vanilla Ice Cream, Spicy Chocolate, Fresh Fruit,</tspan><tspan x="0" y="26">Honey and Lemon Balm</tspan></text>
       </g>
     </g>
-    <text id="_17-3" data-name="$17" class="cls-4" transform="translate(918 30)"><tspan x="0" y="0">$17</tspan></text>
+    <text id="_17-3" data-name="$17" transform="translate(918 30)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$17</tspan></text>
   </g>
-  <g id="Component_13_2" data-name="Component 13 – 2" transform="translate(6 917.692)">
+  <g id="Component_13_2" data-name="Component 13 – 2" transform="translate(41 917.692)">
     <g id="Component_10_1" data-name="Component 10 – 1">
-      <text id="SIGNOR_CORNETTO" data-name="SIGNOR CORNETTO" class="cls-2"><tspan x="0" y="26">SIGNOR CORNETTO</tspan></text>
+      <text id="SIGNOR_CORNETTO" data-name="SIGNOR CORNETTO" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">SIGNOR CORNETTO</tspan></text>
       <g id="Component_1_12" data-name="Component 1 – 12" transform="translate(0 42)">
-        <text id="Croaissant_Filled_with_Rocket_Prosciutto_Mozzarella_Balsamic_Vinegar" data-name="Croaissant Filled with Rocket, Prosciutto, Mozzarella, Balsamic Vinegar" class="cls-5" transform="translate(0 16)"><tspan x="0" y="0">Croaissant Filled with Rocket, Prosciutto, Mozzarella, Balsamic Vinegar</tspan></text>
+        <text id="Croaissant_Filled_with_Rocket_Prosciutto_Mozzarella_Balsamic_Vinegar" data-name="Croaissant Filled with Rocket, Prosciutto, Mozzarella, Balsamic Vinegar" transform="translate(0 16)" fill="#0d7b60" font-size="17" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Croaissant Filled with Rocket, Prosciutto, Mozzarella, Balsamic Vinegar</tspan></text>
       </g>
     </g>
-    <text id="_16.5" data-name="$16.5" class="cls-4" transform="translate(895 43)"><tspan x="0" y="0">$16.5</tspan></text>
+    <text id="_16.5" data-name="$16.5" transform="translate(895 43)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$16.5</tspan></text>
   </g>
-  <g id="Component_12_2" data-name="Component 12 – 2" transform="translate(6 1032.297)">
+  <g id="Component_12_2" data-name="Component 12 – 2" transform="translate(41 1032.297)">
     <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(0 1)">
-      <text id="FISH_TACOS_" data-name="FISH TACOS *" class="cls-2"><tspan x="0" y="26">FISH TACOS *</tspan></text>
+      <text id="FISH_TACOS_" data-name="FISH TACOS *" fill="#109272" font-size="27" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="26">FISH TACOS *</tspan></text>
       <g id="Component_1_13" data-name="Component 1 – 13" transform="translate(0 42)">
         <text id="Taco_Barramundi_Cherry_Tomato_Mix_Lettuce_Lime_Juice_Radish_Kale_Curry_Mayo_Micron_Herbs_Sriracha_Dressing_" data-name="Taco Barramundi, Cherry Tomato, Mix Lettuce, Lime Juice, Radish,
 Kale Curry Mayo, Micron Herbs, Sriracha Dressing
-" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0">Taco Barramundi, Cherry Tomato, Mix Lettuce, Lime Juice, Radish,</tspan><tspan x="0" y="26">Kale Curry Mayo, Micron Herbs, Sriracha Dressing</tspan><tspan x="0" y="52"></tspan></text>
+" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0">Taco Barramundi, Cherry Tomato, Mix Lettuce, Lime Juice, Radish,</tspan><tspan x="0" y="26">Kale Curry Mayo, Micron Herbs, Sriracha Dressing</tspan><tspan x="0" y="52"></tspan></text>
       </g>
     </g>
-    <text id="_19" data-name="$19" class="cls-4" transform="translate(918 27)"><tspan x="0" y="0">$19</tspan></text>
+    <text id="_19" data-name="$19" transform="translate(918 27)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">$19</tspan></text>
   </g>
-  <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(0 369)">
-    <text id="_Add_Italian_sausage_4" data-name="+ Add Italian sausage   + $4" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0" xml:space="preserve">+ Add Italian sausage   + $4</tspan></text>
+  <g id="Component_1_14" data-name="Component 1 – 14" transform="translate(35 369)">
+    <text id="_Add_Italian_sausage_4" data-name="+ Add Italian sausage   + $4" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">+ Add Italian sausage   + $4</tspan></text>
   </g>
-  <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(358 370)">
-    <text id="_Avo_4" data-name="    Avo   + $4" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0" xml:space="preserve">    Avo   + $4</tspan></text>
+  <g id="Component_1_15" data-name="Component 1 – 15" transform="translate(393 370)">
+    <text id="_Avo_4" data-name="    Avo   + $4" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">    Avo   + $4</tspan></text>
   </g>
-  <g id="Component_1_16" data-name="Component 1 – 16" transform="translate(543 370)">
-    <text id="Salmon_4" data-name="Salmon   + $4" class="cls-3" transform="translate(0 19)"><tspan x="0" y="0" xml:space="preserve">Salmon   + $4</tspan></text>
+  <g id="Component_1_16" data-name="Component 1 – 16" transform="translate(578 370)">
+    <text id="Salmon_4" data-name="Salmon   + $4" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">Salmon   + $4</tspan></text>
   </g>
-  <text id="SIDE" class="cls-6" transform="translate(7 1251.667)"><tspan x="0" y="0">SIDE</tspan></text>
-  <g id="Component_21_1" data-name="Component 21 – 1" transform="translate(80 1225.627)">
-    <text id="_." data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="SALMON_4-2" data-name="SALMON   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">SALMON   $4</tspan></text>
+  <text id="SIDE" transform="translate(42 1251.667)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">SIDE</tspan></text>
+  <g id="Component_21_1" data-name="Component 21 – 1" transform="translate(115 1225.627)">
+    <text id="_." data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="SALMON_4-2" data-name="SALMON   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">SALMON   $4</tspan></text>
   </g>
-  <g id="Component_21_2" data-name="Component 21 – 2" transform="translate(330.123 1225.627)">
-    <text id="_.-2" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="HALLOUMI_4" data-name="HALLOUMI   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">HALLOUMI   $4</tspan></text>
+  <g id="Component_21_2" data-name="Component 21 – 2" transform="translate(365.123 1225.627)">
+    <text id="_.-2" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="HALLOUMI_4" data-name="HALLOUMI   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">HALLOUMI   $4</tspan></text>
   </g>
-  <g id="Component_21_3" data-name="Component 21 – 3" transform="translate(521.977 1225.627)">
-    <text id="_.-3" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="VEGAN_FETA_4" data-name="VEGAN FETA   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">VEGAN FETA   $4</tspan></text>
+  <g id="Component_21_3" data-name="Component 21 – 3" transform="translate(556.977 1225.627)">
+    <text id="_.-3" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="VEGAN_FETA_4" data-name="VEGAN FETA   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">VEGAN FETA   $4</tspan></text>
   </g>
-  <g id="Component_21_4" data-name="Component 21 – 4" transform="translate(713 1225.627)">
-    <text id="_.-4" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="GLUTEN_FREE_1_PIECE_4" data-name="GLUTEN FREE (1 PIECE   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">GLUTEN FREE (1 PIECE   $4</tspan></text>
+  <g id="Component_21_4" data-name="Component 21 – 4" transform="translate(748 1225.627)">
+    <text id="_.-4" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="GLUTEN_FREE_1_PIECE_4" data-name="GLUTEN FREE (1 PIECE   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">GLUTEN FREE (1 PIECE   $4</tspan></text>
   </g>
-  <g id="Component_21_5" data-name="Component 21 – 5" transform="translate(80 1257.96)">
-    <text id="_.-5" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="BACON_4" data-name="BACON   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">BACON   $4</tspan></text>
+  <g id="Component_21_5" data-name="Component 21 – 5" transform="translate(115 1257.96)">
+    <text id="_.-5" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="BACON_4" data-name="BACON   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">BACON   $4</tspan></text>
   </g>
-  <g id="Component_21_6" data-name="Component 21 – 6" transform="translate(330.109 1257.96)">
-    <text id="_.-6" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="AVOCADO_4" data-name="AVOCADO   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">AVOCADO   $4</tspan></text>
+  <g id="Component_21_6" data-name="Component 21 – 6" transform="translate(365.109 1257.96)">
+    <text id="_.-6" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="AVOCADO_4" data-name="AVOCADO   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">AVOCADO   $4</tspan></text>
   </g>
-  <g id="Component_21_7" data-name="Component 21 – 7" transform="translate(520.583 1257.96)">
-    <text id="_.-7" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="TOFU_4" data-name="TOFU   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">TOFU   $4</tspan></text>
+  <g id="Component_21_7" data-name="Component 21 – 7" transform="translate(555.583 1257.96)">
+    <text id="_.-7" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="TOFU_4" data-name="TOFU   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">TOFU   $4</tspan></text>
   </g>
-  <g id="Component_21_8" data-name="Component 21 – 8" transform="translate(80 1293)">
-    <text id="_.-8" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="ITALIAN_SAUSAGE_4" data-name="ITALIAN SAUSAGE   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">ITALIAN SAUSAGE   $4</tspan></text>
+  <g id="Component_21_8" data-name="Component 21 – 8" transform="translate(115 1293)">
+    <text id="_.-8" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="ITALIAN_SAUSAGE_4" data-name="ITALIAN SAUSAGE   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">ITALIAN SAUSAGE   $4</tspan></text>
   </g>
-  <g id="Component_21_9" data-name="Component 21 – 9" transform="translate(330.264 1293)">
-    <text id="_.-9" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="EXTRA_EGG_4" data-name="EXTRA EGG   $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">EXTRA EGG   $4</tspan></text>
+  <g id="Component_21_9" data-name="Component 21 – 9" transform="translate(365.264 1293)">
+    <text id="_.-9" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="EXTRA_EGG_4" data-name="EXTRA EGG   $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">EXTRA EGG   $4</tspan></text>
   </g>
-  <g id="Component_21_10" data-name="Component 21 – 10" transform="translate(522.162 1293)">
-    <text id="_.-10" data-name="." class="cls-6" transform="translate(0 19)"><tspan x="0" y="0">.</tspan></text>
-    <text id="EXTRA_BREAD_4" data-name="EXTRA BREAD  $4" class="cls-7" transform="translate(10 24)"><tspan x="0" y="0" xml:space="preserve">EXTRA BREAD  $4</tspan></text>
+  <g id="Component_21_10" data-name="Component 21 – 10" transform="translate(557.162 1293)">
+    <text id="_.-10" data-name="." transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0">.</tspan></text>
+    <text id="EXTRA_BREAD_4" data-name="EXTRA BREAD  $4" transform="translate(10 24)" fill="#0d7b60" font-size="18" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">EXTRA BREAD  $4</tspan></text>
   </g>
-  <text id="_Can_be_made_Gluten_Free_V_Vegan_Vegetarian" data-name="* Can be made Gluten Free       (V) Vegan / Vegetarian" class="cls-8" transform="translate(231 1419)"><tspan x="0" y="0" xml:space="preserve">* Can be made Gluten Free       (V) Vegan / Vegetarian</tspan></text>
+  <text id="_Can_be_made_Gluten_Free_V_Vegan_Vegetarian" data-name="* Can be made Gluten Free       (V) Vegan / Vegetarian" transform="translate(266 1419)" fill="#0d7b60" font-size="18" font-family="Neulis-MediumItalic, Neulis" font-weight="500" font-style="italic" letter-spacing="0.035em"><tspan x="0" y="0" xml:space="preserve">* Can be made Gluten Free       (V) Vegan / Vegetarian</tspan></text>
   <text id="We_cannot_guarantee_the_absence_of_allergies_in_our_kitchen_and_there_may_be_ingredients_in_dishes_not_listed_above._Please_refer_to_our_staff." data-name="We cannot guarantee the absence of allergies in our kitchen and there may be
  ingredients in dishes not listed above.
  
-Please refer to our staff." class="cls-9" transform="translate(386 1485)"><tspan x="-311.707" y="0">We cannot guarantee the absence of allergies in our kitchen and there may be</tspan><tspan x="-147.352" y="20" xml:space="preserve"> ingredients in dishes not listed above.</tspan><tspan x="-1.95" y="40"> </tspan><tspan x="-93.652" y="60">Please refer to our staff</tspan><tspan class="cls-10" y="60">.</tspan></text>
+Please refer to our staff." transform="translate(507.5 1493)" fill="#0d7b60" font-size="15" font-family="NeulisAlt-LightItalic, Neulis Alt" font-weight="300" font-style="italic" letter-spacing="0.035em"><tspan x="-311.707" y="0">We cannot guarantee the absence of allergies in our kitchen and there may be</tspan><tspan x="-147.352" y="20" xml:space="preserve"> ingredients in dishes not listed above.</tspan><tspan x="-1.95" y="40"> </tspan><tspan x="-93.652" y="60">Please refer to our staff</tspan><tspan y="60" font-family="Neulis-MediumItalic, Neulis" font-weight="500">.</tspan></text>
 </svg>
