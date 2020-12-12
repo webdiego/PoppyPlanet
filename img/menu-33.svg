@@ -168,7 +168,8 @@ a       shake taste like " transform="translate(1 1424)" fill="#0d7b60" font-siz
     <g id="Component_23_29" data-name="Component 23 – 29" transform="translate(335 1304)">
       <text id="_39" data-name="$" transform="translate(0 19)" fill="#0d7b60" font-size="20" font-family="Neulis-SemiBold, Neulis" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">$</tspan></text>
     </g>
-    <text id="TEA-2" data-name="TEA" transform="translate(498 1222.604)" fill="#0d7b60" font-size="44" font-family="Neulis-SemiBold, Neulis" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">TEA</tspan></text>
+    <text id="JUICE_" data-name="JUICE
+" transform="translate(498 1222.604)" fill="#0d7b60" font-size="44" font-family="Neulis-SemiBold, Neulis" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">JUICE</tspan><tspan x="0" y="58"></tspan></text>
     <text id="ORANGE" transform="translate(496 1293.283)" fill="#0d7b60" font-size="30" font-family="NeulisAlt-Regular, Neulis Alt" letter-spacing="0.006em"><tspan x="0" y="0">ORANGE</tspan></text>
     <text id="_7-2" data-name="7" transform="translate(867 1297)" fill="#0d7b60" font-size="28" font-family="Neulis-Medium, Neulis" font-weight="500" letter-spacing="0.006em"><tspan x="0" y="0">7</tspan></text>
     <text id="_40" data-name="$" transform="translate(855 1289)" fill="#0d7b60" font-size="20" font-family="Neulis-SemiBold, Neulis" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">$</tspan></text>
@@ -213,7 +214,6 @@ milk, nutella" transform="translate(4 1352)" fill="#0d7b60" font-size="18" font-
     <line id="Line_1" data-name="Line 1" x2="415" transform="translate(511.5 1577.5)" fill="none" stroke="#1cbd95" stroke-linecap="round" stroke-width="3"/>
     <g id="Component_78_3" data-name="Component 78 – 3" transform="translate(733)">
       <circle id="Ellipse_12" data-name="Ellipse 12" cx="78" cy="78" r="78" fill="#07521f"/>
-      <line id="Line_5" data-name="Line 5" y1="4" transform="translate(112.5 175.5)" fill="none" stroke="#414141" stroke-width="1"/>
       <circle id="Ellipse_11" data-name="Ellipse 11" cx="70" cy="70" r="70" transform="translate(9 8)" fill="#fff"/>
       <g id="Component_67_3" data-name="Component 67 – 3" transform="translate(34 32)">
         <circle id="Ellipse_10" data-name="Ellipse 10" cx="45" cy="45" r="45" fill="#092f22"/>
@@ -268,7 +268,7 @@ milk, nutella" transform="translate(4 1352)" fill="#0d7b60" font-size="18" font-
       <g id="title" transform="translate(10.908 8.32)">
         <text id="P" transform="matrix(0.309, -0.951, 0.951, 0.309, 19.021, 58.3)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">P</tspan></text>
         <text id="P-2" data-name="P" transform="matrix(0.998, 0.07, -0.07, 0.998, 66.542, 19.951)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">P</tspan></text>
-        <text id="o" transform="translate(14.091 45.679)" fill="#109272" font-size="19.6" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">O</tspan></text>
+        <text id="o" transform="translate(13.091 43.679)" fill="#109272" font-size="19.6" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">O</tspan></text>
         <text id="l" transform="translate(77.871 20.796) rotate(17)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">L</tspan></text>
         <text id="n" transform="translate(98.814 29.548) rotate(48)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">N</tspan></text>
         <text id="y" transform="translate(50.027 23.301) rotate(-14)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">Y</tspan></text>
@@ -279,16 +279,16 @@ milk, nutella" transform="translate(4 1352)" fill="#0d7b60" font-size="18" font-
         <text id="P-4" data-name="P" transform="translate(32.109 34.255) rotate(-45)" fill="#109272" font-size="19" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-weight="800" letter-spacing="0.647em"><tspan x="0" y="0">P</tspan></text>
         <line id="Line_6" data-name="Line 6" y2="8.107" transform="translate(126.591 66.179)" fill="none"/>
         <text id="c" transform="matrix(0.208, 0.978, -0.978, 0.208, 7.548, 81.165)" fill="#109272" font-size="15" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">C</tspan></text>
-        <text id="o-2" data-name="o" transform="translate(13.091 103.679)" fill="#109272" font-size="13.6" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">O</tspan></text>
-        <text id="f" transform="translate(20.63 108.74) rotate(47)" fill="#109272" font-size="13" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">F</tspan></text>
+        <text id="o-2" data-name="o" transform="matrix(0.602, 0.799, -0.799, 0.602, 11.687, 97.495)" fill="#109272" font-size="13.6" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">O</tspan></text>
+        <text id="f" transform="matrix(0.695, 0.719, -0.719, 0.695, 19.64, 108.851)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">F</tspan></text>
         <text id="_50" data-name="&amp;" transform="translate(67.091 131.679)" fill="#109272" font-size="12.6" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">&amp;</tspan></text>
         <text id="e-2" data-name="e" transform="matrix(0.966, 0.259, -0.259, 0.966, 47.06, 128.947)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">E</tspan></text>
         <text id="d" transform="translate(86.487 129.555) rotate(-20)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">D</tspan></text>
         <text id="i" transform="matrix(0.839, -0.545, 0.545, 0.839, 99.693, 123.82)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">I</tspan></text>
         <text id="n-2" data-name="n" transform="translate(105.508 121.045) rotate(-42)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">N</tspan></text>
         <text id="g" transform="matrix(0.391, -0.921, 0.921, 0.391, 125.22, 94.314)" fill="#109272" font-size="15" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">G</tspan></text>
-        <text id="f-2" data-name="f" transform="translate(28.458 116.043) rotate(40)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">F</tspan></text>
-        <text id="e-3" data-name="e" transform="matrix(0.899, 0.438, -0.438, 0.899, 37.112, 124.33)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">E</tspan></text>
+        <text id="f-2" data-name="f" transform="translate(27.458 116.043) rotate(40)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">F</tspan></text>
+        <text id="e-3" data-name="e" transform="matrix(0.899, 0.438, -0.438, 0.899, 37.112, 123.33)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">E</tspan></text>
         <text id="i-2" data-name="i" transform="translate(114.28 111.328) rotate(-48)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">I</tspan></text>
         <text id="n-3" data-name="n" transform="translate(118.486 106.178) rotate(-56)" fill="#109272" font-size="14" font-family="BrandonGrotesque-Light, Brandon Grotesque" font-weight="300" letter-spacing="0.647em"><tspan x="0" y="0">N</tspan></text>
       </g>
