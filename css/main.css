@@ -7849,7 +7849,7 @@ template {
 
 .header {
   height: 100vh;
-  background-image: url("../img/bg-3.svg");
+  background-image: url("../img/bg-3.1.svg");
   background-position: center;
 }
 
@@ -8156,12 +8156,14 @@ template {
 }
 
 .carousel-indicators {
+  display: flex;
+  align-items: center;
   transform: translateY(4rem);
 }
 
 .carousel-indicators li {
   display: inline-block;
-  width: 1rem;
+  width: 1.5rem;
   height: 1rem;
   margin: 10px;
   text-indent: 0;
@@ -8171,11 +8173,25 @@ template {
   background-color: #109272;
 }
 
+@media only screen and (max-width: 900px) {
+  .carousel-indicators li {
+    width: 1rem;
+    height: .8rem;
+  }
+}
+
 .carousel-indicators .active {
-  width: 1rem;
-  height: 1rem;
+  width: 2rem;
+  height: 2rem;
   margin: 10px;
-  background-color: #dddddd;
+  background-color: #0f785e;
+}
+
+@media only screen and (max-width: 900px) {
+  .carousel-indicators .active {
+    width: 1rem;
+    height: 1rem;
+  }
 }
 
 .menu-dinner {

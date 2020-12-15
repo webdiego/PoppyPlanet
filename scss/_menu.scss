@@ -9,11 +9,13 @@
 }
 }
  .carousel-indicators{
+   display: flex;
+   align-items: center;
    transform: translateY(4rem);
  }
  .carousel-indicators li {
   display: inline-block;
-  width: 1rem;
+  width: 1.5rem;
   height: 1rem;
   margin: 10px;
   text-indent: 0;
@@ -22,13 +24,24 @@
   border-radius: 20px;
  
   background-color: $green;
+  @media only screen and (max-width: 900px) {
+    width: 1rem;
+  height: .8rem;
+ 
    
+      }
 }
 .carousel-indicators .active {
-  width: 1rem;
-  height: 1rem;
+  width: 2rem;
+  height: 2rem;
   margin: 10px;
-  background-color: #dddddd;
+  background-color:#0f785e;
+  @media only screen and (max-width: 900px) {
+    width: 1rem;
+  height: 1rem;
+ 
+   
+      }
 }
 
 
