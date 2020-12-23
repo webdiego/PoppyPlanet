@@ -115,6 +115,10 @@ a {
   width: 10rem;
 }
 
+.lazy-img {
+  filter: blur(10px);
+}
+
 /*!
  * Bootstrap Grid v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
