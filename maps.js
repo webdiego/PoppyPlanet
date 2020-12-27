@@ -22,7 +22,7 @@ function initMap() {
 
 document.head.appendChild(script);
 
-
+// lazy load img
 const imgTargets = document.querySelectorAll('img[data-src]');
 
 const loadImg = function (entries, observer) {
@@ -48,3 +48,27 @@ const imgObserver = new IntersectionObserver(loadImg, {
 imgTargets.forEach(function (img) {
   return imgObserver.observe(img);
 });
+
+
+//show section on scrool
+
+const allSection = document.querySelectorAll('.section')
+const revealSection = function(entries, obsever){
+ const [entry] = entries
+ if(entry.isIntersecting){
+   entry.target.classList.remove('section--hidden')
+ }
+}
+
+
+
+const sectionObserver = new IntersectionObserver(revealSection, {
+  root: null,
+  threshold: 0.15,
+})
+
+allSection.forEach(function(section){
+  sectionObserver.observe(section)
+  section.classList.add('section--hidden');
+
+})

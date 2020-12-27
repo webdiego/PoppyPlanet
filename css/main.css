@@ -119,6 +119,15 @@ a {
   filter: blur(10px);
 }
 
+.section {
+  transition: transform 1s, opacity 1s;
+}
+
+.section--hidden {
+  opacity: 0;
+  transform: translateY(8rem);
+}
+
 /*!
  * Bootstrap Grid v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
