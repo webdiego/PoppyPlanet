@@ -40,7 +40,7 @@ const revealSection = function(entries, obsever){
 
 const sectionObserver = new IntersectionObserver(revealSection, {
   root: null,
-  threshold: 0.15,
+  threshold: 0.10,
 })
 
 allSection.forEach(function(section){
