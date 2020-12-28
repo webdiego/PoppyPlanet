@@ -50,7 +50,7 @@ imgTargets.forEach(function (img) {
 });
 
 
-//show section on scrool
+//show section on scroll
 
 const allSection = document.querySelectorAll('.section')
 const revealSection = function(entries, obsever){

@@ -99,3 +99,8 @@
     flex-direction: column-reverse;
  } 
 }
+
+// Lazy load img
+.lazy-img {
+  filter: blur(10px);
+}
