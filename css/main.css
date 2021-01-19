@@ -81,6 +81,7 @@ a {
 
 .poppy-white {
   width: 5rem;
+  height: 100%;
 }
 
 @media only screen and (max-width: 680px) {
@@ -113,10 +114,6 @@ a {
 
 .footer-slicecode {
   width: 10rem;
-}
-
-.lazy-img {
-  filter: blur(10px);
 }
 
 .section {
@@ -8152,6 +8149,10 @@ template {
     display: flex;
     flex-direction: column-reverse;
   }
+}
+
+.lazy-img {
+  filter: blur(10px);
 }
 
 .carousel {
